@@ -1,0 +1,1 @@
+2.1-1 Write down the range in pixel values present in e.g. a bright part of the sky.
